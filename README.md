@@ -89,7 +89,7 @@ Execute o comando abaixo para rodar a aplicação:
 
 `dotnet run`
 
-A API estará disponível em `https://localhost:5001`.
+A API estará disponível em `https://localhost:5123`.
 
 ## **Testes Unitários**
 
